@@ -1,5 +1,5 @@
 # Huffman Coding
-A C program that uses Huffman encoding to compress an inputted text file.
+A C program that uses Huffman coding to compress an inputted text file.
 ## Usage
 Compilation: `gcc -o huffman huffman.c tree.c pack.c`  
 Run: `./huffman input.txt output.gz` (only the extensions are important)  
